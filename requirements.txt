@@ -1,0 +1,4 @@
+colorama
+praw
+requests
+six
